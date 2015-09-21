@@ -1,0 +1,13 @@
+Author: Francisco Da Costa
+Student ID: 5026516
+
+Lab Assignment 2: Game of Craps
+
+To Build:
+	$ make
+
+To Run:
+	$ ./Craps
+
+The program will run once, and then prompt the user if
+they wish to play again, while providing directions. 
